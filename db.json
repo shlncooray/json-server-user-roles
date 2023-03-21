@@ -2,30 +2,58 @@
   "userRoles": [
     {
       "id": 1,
-      "roleName": "Admin",
-      "roleType": "admin"
+      "roleName": "Customer Admin",
+      "roleType": "customer"
     },
     {
       "id": 2,
-      "roleName": "Editor",
-      "roleType": "editor"
+      "roleName": "Computer Operator",
+      "roleType": "customer"
     },
     {
       "id": 3,
-      "roleName": "Reader",
-      "roleType": "reader"
+      "roleName": "Accountant",
+      "roleType": "customer"
+    },
+    {
+      "id": 4,
+      "roleName": "Sales Manager",
+      "roleType": "internal"
     }
   ],
   "users": [
     {
       "id": 1,
       "firstName": "Shelan",
-      "lastName": "Cooray"
+      "lastName": "Cooray",
+      "userName": "shelan@gmail.com",
+      "customer": "Jhon Keells",
+      "userRole": "Customer Admin",
+      "status": "Active",
+      "lastUpdated": "",
+      "lastLogin": ""
     },
     {
       "id": 2,
       "firstName": "Prasad",
-      "lastName": "Lakmal"
-    }
+      "lastName": "Devinda",
+      "userName": "prasad@gmail.com",
+      "customer": "Jhon Keells",
+      "userRole": "Sales Rep",
+      "status": "Active",
+      "lastUpdated": "",
+      "lastLogin": "",
+    },
+    {
+      "id": 2,
+      "firstName": "Oshada",
+      "lastName": "Fernando",
+      "userName": "oshada@gmail.com",
+      "customer": "JMC",
+      "userRole": "Sales Rep",
+      "status": "Inactive",
+      "lastUpdated": "",
+      "lastLogin": "",
+    },
   ]
 }
