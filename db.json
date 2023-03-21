@@ -1,0 +1,31 @@
+{
+  "userRoles": [
+    {
+      "roleId": 1,
+      "roleName": "Admin",
+      "roleType": "admin"
+    },
+    {
+      "roleId": 2,
+      "roleName": "Editor",
+      "roleType": "editor"
+    },
+    {
+      "roleId": 3,
+      "roleName": "Reader",
+      "roleType": "reader"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Shelan",
+      "lastName": "Cooray"
+    },
+    {
+      "id": 2,
+      "firstName": "Prasad",
+      "lastName": "Lakmal"
+    }
+  ]
+}
