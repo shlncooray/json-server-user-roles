@@ -1,17 +1,17 @@
 {
   "userRoles": [
     {
-      "roleId": 1,
+      "id": 1,
       "roleName": "Admin",
       "roleType": "admin"
     },
     {
-      "roleId": 2,
+      "id": 2,
       "roleName": "Editor",
       "roleType": "editor"
     },
     {
-      "roleId": 3,
+      "id": 3,
       "roleName": "Reader",
       "roleType": "reader"
     }
