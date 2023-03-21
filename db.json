@@ -42,7 +42,7 @@
       "userRole": "Sales Rep",
       "status": "Active",
       "lastUpdated": "",
-      "lastLogin": "",
+      "lastLogin": ""
     },
     {
       "id": 2,
@@ -53,7 +53,7 @@
       "userRole": "Sales Rep",
       "status": "Inactive",
       "lastUpdated": "",
-      "lastLogin": "",
-    },
+      "lastLogin": ""
+    }
   ]
 }
